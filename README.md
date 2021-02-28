@@ -4,4 +4,8 @@ This is an application that takes user inputs and generates an html page. The us
 
 # Screenshots
 
-![displayed app](src-helper-code/shot.png)
+![displayed app](src-helper-code/screen.png)
+
+# Walkthrough video
+
+https://drive.google.com/file/d/1j--YW9m1fahEnFg4S-XLe0KmSSn3q8CK/view?usp=sharing 
